@@ -20,15 +20,14 @@ Here are some of the technologies and tools I work with:
 
 I enjoy building projects that challenge me and allow me to learn and grow. Some of my recent projects include:
 
-- [Project 1](learnifyid.netlify.app)
+- [Project 1](https://learnifyid.netlify.app)
 <!--- [Project 2](link/to/your/project2) -->
 
 ## Connect with Me
 
 Let's connect and collaborate! Feel free to reach out to me on:
 
-- GitHub: [Your GitHub Username](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- Email: [your@email.com](yanzcode@email.com)
+- GitHub: [https://github.com/riyannugraha]
+- Email: [yanzcode@email.com]
 
 Looking forward to meeting like-minded developers and enthusiasts! 😄
